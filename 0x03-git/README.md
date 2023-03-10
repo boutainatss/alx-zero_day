@@ -1,2 +1,2 @@
 My first README.md
-update the README file cor collabiration 
+update the README file for collabiration 
